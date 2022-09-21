@@ -1,0 +1,7 @@
+C:\Users\korisnik\Documents\Prosjekocjena1\bin\Debug\Prosjekocjena1.exe.config
+C:\Users\korisnik\Documents\Prosjekocjena1\bin\Debug\Prosjekocjena1.exe
+C:\Users\korisnik\Documents\Prosjekocjena1\bin\Debug\Prosjekocjena1.pdb
+C:\Users\korisnik\Documents\Prosjekocjena1\obj\Debug\Prosjekocjena1.csproj.AssemblyReference.cache
+C:\Users\korisnik\Documents\Prosjekocjena1\obj\Debug\Prosjekocjena1.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Documents\Prosjekocjena1\obj\Debug\Prosjekocjena1.exe
+C:\Users\korisnik\Documents\Prosjekocjena1\obj\Debug\Prosjekocjena1.pdb
